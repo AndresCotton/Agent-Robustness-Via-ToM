@@ -124,6 +124,9 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+#model
+Agent-Robustness-Via-ToM/gpt-oss-120b
+
 # SageMath parsed files
 *.sage.py
 
