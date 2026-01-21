@@ -1,0 +1,120 @@
+
+============================================================
+QUESTION TYPE: first_order_0
+============================================================
+
+--- NO_TOM ---
+Story type: true_belief
+Question type: first_order_0_no_tom
+
+1 Aria entered the front_yard.
+2 Aiden entered the front_yard.
+3 The grapefruit is in the green_bucket.
+4 Aria moved the grapefruit to the blue_container.
+5 Aiden exited the front_yard.
+6 Noah entered the playroom.
+
+Q: Where will Aria look for the grapefruit?
+A: blue_container
+
+============================================================
+QUESTION TYPE: first_order_1
+============================================================
+
+--- TOM ---
+Story type: false_belief
+Question type: first_order_1_tom
+
+1 Isabella entered the den.
+2 Olivia entered the den.
+3 Isabella dislikes the pumpkin
+4 The broccoli is in the blue_pantry.
+5 Isabella exited the den.
+6 Olivia moved the broccoli to the red_drawer.
+7 Abigail entered the garden.
+8 Isabella entered the garden.
+
+Q: Where will Isabella look for the broccoli?
+A: blue_pantry
+
+--- NO_TOM ---
+Story type: true_belief
+Question type: first_order_1_no_tom
+
+1 Aria entered the front_yard.
+2 Aiden entered the front_yard.
+3 The grapefruit is in the green_bucket.
+4 Aria moved the grapefruit to the blue_container.
+5 Aiden exited the front_yard.
+6 Noah entered the playroom.
+
+Q: Where will Aiden look for the grapefruit?
+A: blue_container
+
+============================================================
+QUESTION TYPE: second_order_0
+============================================================
+
+--- TOM ---
+Story type: false_belief
+Question type: second_order_0_tom
+
+1 Isabella entered the den.
+2 Olivia entered the den.
+3 Isabella dislikes the pumpkin
+4 The broccoli is in the blue_pantry.
+5 Isabella exited the den.
+6 Olivia moved the broccoli to the red_drawer.
+7 Abigail entered the garden.
+8 Isabella entered the garden.
+
+Q: Where does Olivia think that Isabella searches for the broccoli?
+A: blue_pantry
+
+--- NO_TOM ---
+Story type: true_belief
+Question type: second_order_0_no_tom
+
+1 Aria entered the front_yard.
+2 Aiden entered the front_yard.
+3 The grapefruit is in the green_bucket.
+4 Aria moved the grapefruit to the blue_container.
+5 Aiden exited the front_yard.
+6 Noah entered the playroom.
+
+Q: Where does Aria think that Aiden searches for the grapefruit?
+A: blue_container
+
+============================================================
+QUESTION TYPE: second_order_1
+============================================================
+
+--- TOM ---
+Story type: false_belief
+Question type: second_order_1_tom
+
+1 Isabella entered the den.
+2 Olivia entered the den.
+3 Isabella dislikes the pumpkin
+4 The broccoli is in the blue_pantry.
+5 Isabella exited the den.
+6 Olivia moved the broccoli to the red_drawer.
+7 Abigail entered the garden.
+8 Isabella entered the garden.
+
+Q: Where does Isabella think that Olivia searches for the broccoli?
+A: blue_pantry
+
+--- NO_TOM ---
+Story type: true_belief
+Question type: second_order_1_no_tom
+
+1 Aria entered the front_yard.
+2 Aiden entered the front_yard.
+3 The grapefruit is in the green_bucket.
+4 Aria moved the grapefruit to the blue_container.
+5 Aiden exited the front_yard.
+6 Noah entered the playroom.
+
+Q: Where does Aiden think that Aria searches for the grapefruit?
+A: blue_container
