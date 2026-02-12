@@ -73,7 +73,7 @@ No ToM: "Emma put the ball in the basket. Jack moved it to the box.
 
 ## Results
 
-Full preliminary in `tom_benchmarks/eval_outputs/`.
+See preliminary results in `tom_benchmarks/eval_outputs/`.
 
 ## Citation
 
